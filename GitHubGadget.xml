@@ -3,7 +3,9 @@
 <ModulePrefs title="GitHubGadget"/>
 <Content type="html">
 <![CDATA[
+<script>$('#repo').repo({ user: 'jamiemori', name: 'Test' });</script>
 <script src="https://raw.githubusercontent.com/starmandeluxe/Repo.js/master/repo.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 ]]>
 </Content>
 </Module>
