@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="GitHubGadget"/>
+<Content type="html">
+<![CDATA[
+<script src="https://raw.githubusercontent.com/starmandeluxe/Repo.js/master/repo.min.js"></script>
+]]>
+</Content>
+</Module>
